@@ -196,8 +196,9 @@ select {
     margin-left: 20%;
 }
 error-output {
+    margin-left: 10px;
     font-size: 12px;
-    font-family: Roboto;
+    font-family: italic;
     color: red;
 }
 
